@@ -1,0 +1,15 @@
+div {
+    background-color: green;
+}
+
+.first {
+    opacity: 0.1;
+}
+
+.second {
+    opacity: 0.3;
+}
+
+.third {
+    opacity: 0.6;
+}
